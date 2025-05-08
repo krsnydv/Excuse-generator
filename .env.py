@@ -1,0 +1,1 @@
+GOOGLE_API_KEY=AIzaSyBvmQh8Y‑WY_d_5nwvO49WkrYEreCrjmRQ
